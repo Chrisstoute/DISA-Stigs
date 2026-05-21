@@ -1,16 +1,8 @@
-<table align="center">
-  <tr>
-    <td align="center" width="12%">
-      <img src="./assets/DISA_Seal.png" alt="DISA Seal" width="95"/>
-    </td>
-    <td align="center" width="76%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:4B5563,100:1E3A8A&height=180&section=header&text=DISA%20STIG%20Remediation%20Project&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=35" />
-    </td>
-    <td align="center" width="12%">
-      <img src="./assets/DISA_Seal.png" alt="DISA Seal" width="95"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/DISA_Seal.png" alt="DISA Seal" width="90" style="vertical-align: middle; margin-right: 12px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:4B5563,100:1E3A8A&height=170&section=header&text=DISA%20STIG%20Remediation%20Project&fontSize=34&fontColor=FFD700&animation=fadeIn&fontAlignY=35" alt="DISA STIG Remediation Project Banner" width="720" style="vertical-align: middle;">
+  <img src="./assets/DISA_Seal.png" alt="DISA Seal" width="90" style="vertical-align: middle; margin-left: 12px;">
+</div>
 
 <p align="center">
   Hands-on Windows hardening, compliance validation, and PowerShell-driven STIG remediation.
