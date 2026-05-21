@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:DC2626&height=180&section=header&text=DISA%20STIG%20Remediation%20Project&fontSize=38&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:4B5563,100:1E3A8A&height=180&section=header&text=DISA%20STIG%20Remediation%20Project&fontSize=38&fontColor=FFD700&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
   <img src="./assets/DISA_Seal.png" alt="DISA Logo" width="140"/>
 </p>
 
-<h1 align="center">DISA STIG Remediation Lab</h1>
+<h1 align="center">DISA STIG Remediation Project</h1>
 
 <p align="center">
   Hands-on Windows hardening, compliance validation, and PowerShell-driven STIG remediation.
@@ -107,11 +109,12 @@ Screenshots and scan results will be added as each STIG remediation is completed
 
 This project is currently in progress.
 
-```text
 STIGs Completed: 1 / 10
 
 ## Purpose
 
 This project demonstrates practical experience with compliance-based vulnerability management, secure configuration baselines, Windows hardening, and PowerShell-driven remediation.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:1F2937,100:0B0F19&height=120&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:4B5563,100:1F2937&height=120&section=footer" />
+</p>
