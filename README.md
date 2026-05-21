@@ -1,4 +1,22 @@
-# DISA STIG Remediation Lab
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:DC2626&height=180&section=header&text=DISA%20STIG%20Remediation%20Project&fontSize=38&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35" />
+
+<p align="center">
+  <img src="./assets/DISA_Seal.png" alt="DISA Logo" width="140"/>
+</p>
+
+<h1 align="center">DISA STIG Remediation Lab</h1>
+
+<p align="center">
+  Hands-on Windows hardening, compliance validation, and PowerShell-driven STIG remediation.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scanner-Tenable-7A3E9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compliance-DISA%20STIG-B91C1C?style=for-the-badge" />
+</p>
 
 This repository documents hands-on DISA STIG remediation work completed as part of a cybersecurity internship final phase.
 
@@ -95,3 +113,5 @@ STIGs Completed: 1 / 10
 ## Purpose
 
 This project demonstrates practical experience with compliance-based vulnerability management, secure configuration baselines, Windows hardening, and PowerShell-driven remediation.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:1F2937,100:0B0F19&height=120&section=footer" />
