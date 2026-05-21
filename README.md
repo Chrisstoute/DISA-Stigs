@@ -55,7 +55,7 @@ Each remediation includes:
 
 | # | STIG ID | Finding | Severity | Status | Link |
 |---|---|---|---|---|---|
-| 1 | TBD | TBD | TBD | Pending | [STIG 1](./STIG_1/) |
+| 1 | WN11-AU-000500 | Application event log size must be configured to 32768 KB or greater | Medium | Completed | [WN11-AU-000500](./WN11-AU-000500/) |
 | 2 | TBD | TBD | TBD | Pending | TBD |
 | 3 | TBD | TBD | TBD | Pending | TBD |
 | 4 | TBD | TBD | TBD | Pending | TBD |
@@ -90,7 +90,7 @@ Screenshots and scan results will be added as each STIG remediation is completed
 This project is currently in progress.
 
 ```text
-STIGs Completed: 0 / 10
+STIGs Completed: 1 / 10
 
 ## Purpose
 
