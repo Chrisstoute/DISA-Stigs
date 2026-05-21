@@ -26,7 +26,7 @@ The goal of this project is to identify failed DISA STIG compliance checks, reme
 
 ## Project Overview
 
-This lab uses a Windows-based virtual machine, Tenable compliance scanning, and PowerShell to complete 10 DISA STIG remediations.
+This project uses a Windows-based virtual machine, Tenable compliance scanning, and PowerShell to complete 10 DISA STIG remediations.
 
 Each remediation includes:
 
@@ -37,7 +37,13 @@ Each remediation includes:
 - Before-and-after evidence
 - Screenshots where applicable
 
-## Lab Environment
+<h2>Project Environment & Capabilities</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>Project Environment</h3>
 
 | Component | Details |
 |---|---|
@@ -48,28 +54,50 @@ Each remediation includes:
 | Remediation Method | PowerShell |
 | Documentation | GitHub Markdown |
 
-## Tools Used
+<h3>Tools Used</h3>
 
-- Microsoft Azure
-- Tenable
-- DISA STIG Scan Template
-- PowerShell
-- Windows Registry
-- Local Security Policy
-- Group Policy
-- VS Code
-- GitHub
+<ul>
+  <li>Microsoft Azure</li>
+  <li>Tenable</li>
+  <li>DISA STIG Scan Template</li>
+  <li>PowerShell</li>
+  <li>Windows Registry</li>
+  <li>Local Security Policy</li>
+  <li>Group Policy</li>
+  <li>VS Code</li>
+  <li>GitHub</li>
+</ul>
 
-## Skills Demonstrated
+</td>
+<td width="50%" valign="top">
 
-- DISA STIG compliance analysis
-- Windows system hardening
-- PowerShell scripting
-- Vulnerability and configuration remediation
-- Tenable compliance scanning
-- Audit finding validation
-- Security documentation
-- Before-and-after evidence collection
+<h3>Skills Demonstrated</h3>
+
+<ul>
+  <li>DISA STIG compliance analysis</li>
+  <li>Windows system hardening</li>
+  <li>PowerShell scripting</li>
+  <li>Vulnerability and configuration remediation</li>
+  <li>Tenable compliance scanning</li>
+  <li>Audit finding validation</li>
+  <li>Security documentation</li>
+  <li>Before-and-after evidence collection</li>
+</ul>
+
+<h3>Remediation Focus</h3>
+
+<ul>
+  <li>Failed audit finding review</li>
+  <li>Registry-based remediation</li>
+  <li>PowerShell implementation</li>
+  <li>Manual validation</li>
+  <li>Tenable rescan confirmation</li>
+  <li>GitHub documentation</li>
+</ul>
+
+</td>
+  </tr>
+</table>
 
 ## Completed STIG Remediations
 
