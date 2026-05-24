@@ -103,14 +103,14 @@ Each remediation includes:
 |---|---|---|---|---|
 | 1 | WN11-AU-000500 | Application event log size must be configured to 32768 KB or greater | Completed | [View Remediation](./WN11-AU-000500/) |
 | 2 | WN11-AU-000510 | System event log size must be configured to 32768 KB or greater | Completed | [View Remediation](./WN11-AU-000510/) |
-| 3 | WN11-AC-000020 | Password history must be configured to 24 passwords remembered | Completed | [View Remediation](./WN11-AC-000020/) |
-| 4 | WN11-AC-000035 | Minimum password length must be configured to 14 characters | Completed | [View Remediation](./WN11-AC-000035/) |
-| 5 | WN11-AC-000010 | Number of allowed bad logon attempts must be configured to three or fewer | Completed | [View Remediation](./WN11-AC-000010/) |
-| 6 | WN11-CC-000330 | WinRM client must not use Basic authentication | Completed | [View Remediation](./WN11-CC-000330/) |
-| 7 | WN11-CC-000360 | WinRM client must not use Digest authentication | Completed | [View Remediation](./WN11-CC-000360/) |
-| 8 | WN11-CC-000270 | Remote Desktop Services must prevent users from saving passwords | Completed | [View Remediation](./WN11-CC-000270/) |
-| 9 | WN11-AU-000505 | Security event log size must hold at least one week of audit records | In Progress | Pending final validation |
-| 10 | WN11-CC-000350 | WinRM service must not allow unencrypted traffic | In Progress | Pending final validation |
+| 3 | WN11-AU-000505 | Security event log size must hold at least one week of audit records | Completed | [View Remediation](./WN11-AU-000505/) |
+| 4 | WN11-AC-000020 | Password history must be configured to 24 passwords remembered | Completed | [View Remediation](./WN11-AC-000020/) |
+| 5 | WN11-AC-000035 | Minimum password length must be configured to 14 characters | Completed | [View Remediation](./WN11-AC-000035/) |
+| 6 | WN11-AC-000010 | Number of allowed bad logon attempts must be configured to three or fewer | Completed | [View Remediation](./WN11-AC-000010/) |
+| 7 | WN11-CC-000330 | WinRM client must not use Basic authentication | Completed | [View Remediation](./WN11-CC-000330/) |
+| 8 | WN11-CC-000360 | WinRM client must not use Digest authentication | Completed | [View Remediation](./WN11-CC-000360/) |
+| 9 | WN11-CC-000350 | WinRM service must not allow unencrypted traffic | Completed | [View Remediation](./WN11-CC-000350/) |
+| 10 | WN11-CC-000270 | Remote Desktop Services must prevent users from saving passwords | Completed | [View Remediation](./WN11-CC-000270/) |
 
 ## Remediation Workflow
 
@@ -148,7 +148,7 @@ Screenshots and scan results will be added as each STIG remediation is completed
 
 This project is currently in progress.
 
-STIGs Completed: 1 / 10
+STIGs Completed: 10 / 10
 
 ## Purpose
 
