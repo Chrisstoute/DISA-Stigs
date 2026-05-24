@@ -97,18 +97,20 @@ Each remediation includes:
 
 ## Completed STIG Remediations
 
-| # | STIG ID | Finding | Severity | Status | Link |
-|---|---|---|---|---|---|
-| 1 | WN11-AU-000500 | Application event log size must be configured to 32768 KB or greater | Medium | Completed | [WN11-AU-000500](./WN11-AU-000500/) |
-| 2 | TBD | TBD | TBD | Pending | TBD |
-| 3 | TBD | TBD | TBD | Pending | TBD |
-| 4 | TBD | TBD | TBD | Pending | TBD |
-| 5 | TBD | TBD | TBD | Pending | TBD |
-| 6 | TBD | TBD | TBD | Pending | TBD |
-| 7 | TBD | TBD | TBD | Pending | TBD |
-| 8 | TBD | TBD | TBD | Pending | TBD |
-| 9 | TBD | TBD | TBD | Pending | TBD |
-| 10 | TBD | TBD | TBD | Pending | TBD |
+## Completed STIG Remediations
+
+| # | STIG ID | Requirement | Status | Link |
+|---|---|---|---|---|
+| 1 | WN11-AU-000500 | Application event log size must be configured to 32768 KB or greater | Completed | [View Remediation](./WN11-AU-000500/) |
+| 2 | WN11-AU-000510 | System event log size must be configured to 32768 KB or greater | Completed | [View Remediation](./WN11-AU-000510/) |
+| 3 | WN11-AC-000020 | Password history must be configured to 24 passwords remembered | Completed | [View Remediation](./WN11-AC-000020/) |
+| 4 | WN11-AC-000035 | Minimum password length must be configured to 14 characters | Completed | [View Remediation](./WN11-AC-000035/) |
+| 5 | WN11-AC-000010 | Number of allowed bad logon attempts must be configured to three or fewer | Completed | [View Remediation](./WN11-AC-000010/) |
+| 6 | WN11-CC-000330 | WinRM client must not use Basic authentication | Completed | [View Remediation](./WN11-CC-000330/) |
+| 7 | WN11-CC-000360 | WinRM client must not use Digest authentication | Completed | [View Remediation](./WN11-CC-000360/) |
+| 8 | WN11-CC-000270 | Remote Desktop Services must prevent users from saving passwords | Completed | [View Remediation](./WN11-CC-000270/) |
+| 9 | WN11-AU-000505 | Security event log size must hold at least one week of audit records | In Progress | Pending final validation |
+| 10 | WN11-CC-000350 | WinRM service must not allow unencrypted traffic | In Progress | Pending final validation |
 
 ## Remediation Workflow
 
