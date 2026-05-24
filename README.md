@@ -142,11 +142,9 @@ Each STIG remediation follows a structured validation process using Tenable, man
 
 ## Evidence
 
-Screenshots and scan results will be added as each STIG remediation is completed.
+Screenshots and scan results have been added to each completed STIG remediation.
 
 ## Project Status
-
-This project is currently in progress.
 
 STIGs Completed: 10 / 10
 
