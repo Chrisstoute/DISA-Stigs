@@ -114,18 +114,31 @@ Each remediation includes:
 
 ## Remediation Workflow
 
-Each STIG remediation follows the same process:
+Each STIG remediation follows a structured validation process using Tenable, manual configuration review, PowerShell automation, and GitHub documentation.
 
-1. Run an initial Tenable DISA/STIG compliance scan.
-2. Review failed audit checks in the Tenable Audit tab.
-3. Select a failed STIG finding.
-4. Research the required configuration.
-5. Create a PowerShell remediation script.
-6. Apply the remediation to the target VM.
-7. Validate the configuration locally.
-8. Rescan the VM with Tenable.
-9. Document the before-and-after evidence.
-10. Publish the completed remediation to GitHub.
+1. Run an initial Tenable DISA/STIG compliance scan to identify failed audit checks.
+
+2. Review the failed STIG finding in the Tenable Audit tab and document the initial failure.
+
+3. Research the required configuration using the STIG guidance, Tenable solution details, and Windows policy/registry references.
+
+4. Manually apply the required configuration through the appropriate Windows interface, such as Local Group Policy Editor, Local Security Policy, Event Viewer, or Registry Editor.
+
+5. Run a second Tenable scan to confirm the manual remediation successfully resolves the finding.
+
+6. Revert the setting back to its original non-compliant state to recreate the failed condition.
+
+7. Create a PowerShell remediation script that applies the required configuration automatically.
+
+8. Execute the PowerShell remediation script on the target VM.
+
+9. Validate the configuration locally using PowerShell, registry checks, policy checks, or Windows command-line tools.
+
+10. Run a third Tenable scan to confirm the PowerShell remediation successfully resolves the finding.
+
+11. Document the failed state, manual remediation reference, PowerShell remediation, validation output, and final passed Tenable scan evidence.
+
+12. Publish the completed remediation folder and documentation to GitHub.
 
 ## Evidence
 
